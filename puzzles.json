@@ -2,7 +2,7 @@
     {
         "id": "pzl-p",
         "name": "Perigord Flight",
-        "image": "assets/imgs/puzzle/pzl-p.png",
+        "image": "https://raw.githubusercontent.com/colin-vdr/Pictoswap/refs/heads/main/pzl-p.png",
         "columns": 3,
         "rows": 3
     }
