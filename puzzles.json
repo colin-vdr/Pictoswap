@@ -1,0 +1,9 @@
+[
+    {
+        "id": "pzl-p",
+        "name": "Perigord Flight",
+        "image": "assets/imgs/puzzle/pzl-p.png",
+        "columns": 3,
+        "rows": 3
+    }
+]
