@@ -1,7 +1,21 @@
 [
     {
+        "id": "pzl-d",
+        "name": "Doubt is permitted",
+        "image": "https://raw.githubusercontent.com/colin-vdr/Pictoswap/refs/heads/main/pzl-d.png",
+        "columns": 3,
+        "rows": 3
+    },
+    {
+        "id": "pzl-h",
+        "name": "Help asked",
+        "image": "https://raw.githubusercontent.com/colin-vdr/Pictoswap/refs/heads/main/pzl-h.png",
+        "columns": 3,
+        "rows": 3
+    },
+    {
         "id": "pzl-p",
-        "name": "Perigord Flight",
+        "name": "Perigord flight",
         "image": "https://raw.githubusercontent.com/colin-vdr/Pictoswap/refs/heads/main/pzl-p.png",
         "columns": 3,
         "rows": 3
