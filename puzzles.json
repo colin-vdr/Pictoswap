@@ -7,6 +7,13 @@
         "rows": 3
     },
     {
+        "id": "pzl-e",
+        "name": "Exceptional GIF",
+        "image": "https://raw.githubusercontent.com/colin-vdr/Pictoswap/refs/heads/main/pzl-e.png",
+        "columns": 3,
+        "rows": 3
+    },
+    {
         "id": "pzl-h",
         "name": "Help asked",
         "image": "https://raw.githubusercontent.com/colin-vdr/Pictoswap/refs/heads/main/pzl-h.png",
@@ -17,6 +24,20 @@
         "id": "pzl-p",
         "name": "Perigord flight",
         "image": "https://raw.githubusercontent.com/colin-vdr/Pictoswap/refs/heads/main/pzl-p.png",
+        "columns": 3,
+        "rows": 3
+    },
+    {
+        "id": "pzl-v",
+        "name": "Value of the land",
+        "image": "https://raw.githubusercontent.com/colin-vdr/Pictoswap/refs/heads/main/pzl-v.png",
+        "columns": 3,
+        "rows": 3
+    },
+    {
+        "id": "pzl-z",
+        "name": "Zest of peanutz",
+        "image": "https://raw.githubusercontent.com/colin-vdr/Pictoswap/refs/heads/main/pzl-z.png",
         "columns": 3,
         "rows": 3
     }
